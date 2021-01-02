@@ -1,13 +1,13 @@
 ﻿F14:: ;this is a script to spawn the pickup in jailbreak
 MouseGetPos, xpos, ypos 
 Click, 138, 790
-Sleep, 500
+Sleep, 420
 Click, 1266, 377
 Click, 386, 153
 MouseMove, %xpos%, %ypos%
 return
 
-F15:: ;this script opens the first crate 
+F15:: ;this script opens the first crate in jailbreak
 Click, 65, 740
 Sleep, 300
 Click, 800, 820
