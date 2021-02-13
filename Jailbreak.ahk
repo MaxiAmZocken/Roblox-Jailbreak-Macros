@@ -1,4 +1,6 @@
-﻿F14:: ;this is a script to spawn the pickup in jailbreak
+------------------- Roblox Makros -------------------
+
+F14:: ;this is a script to spawn the pickup in jailbreak
 MouseGetPos, xpos, ypos 
 Click, 138, 790
 Sleep, 420
