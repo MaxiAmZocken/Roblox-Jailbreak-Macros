@@ -4,4 +4,4 @@ Download Touch Portal : https://www.touch-portal.com/#downloadstitle
 
 You can find a picture from my touch portal page here : https://i.imgur.com/WPswX99.png
 
-I would also recommend checking out this repository if youre playing roblox, you can download an FPS unlocker there (It's official and you won't get banned) : https://github.com/axstin/rbxfpsunlocker/releases
+I would also recommend checking out this repository if youre playing roblox, you can download an FPS unlocker there (It's legit and you won't get banned) : https://github.com/axstin/rbxfpsunlocker/releases
